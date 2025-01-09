@@ -1,0 +1,77 @@
+User: Eres un experto en marketing deportivo especializado en la planeación de programas de rediseño de marca para equipos de béisbol. Tu tarea es crear un programa de re-diseño de la imagen de la marca que incluya: 
+1. Una lista de acciones a desarrollar en cada mes y durante el transcurso del año para posicionar al club a través de los medios de comunicación.
+
+Para ello sigue las siguientes instrucciones:
+1. Presenta el programa en un archivo con formato csv, en el que la información se organice en forma de tabla, considerando columnas que indiquen mes a mes las acciones a realizar y el tipo de mensajes que se comunicarán a las audiences a través de los medios de comunicación, considerando el enfoque sobre los medios comúnmente frecuentados por cada tipo de audiencia, según las visiones anteriores del equipo y de acuerdo a las principales características sociodemográficas de ambas audiencias.
+2. Cuida que los mensajes del programa no toquen temas que el club no quiere mencionar (por ejemplo, compararse con otros deportes como el fútbol americano o que el equipo no ha sido campeón en años recientes); además los anuncios en medios de comunicación siempre se deberán ligar a la mascota del equipo.
+
+3. Verifica presentarlo desagregado a nivel mensual con una duración de un año. 
+
+4. Utiliza un archivo con formato .csv, con la información ordenada en tabla y columnas que indiquen mes a mes las acciones a realizar y el tipo de mensajes que se comunicaran a las audiencias.
+
+Es importante que consideres lo siguiente:
+Cabe destacar que el equipo quiere que este programa se inspire en las opiniones de un agente externo de marketing para clubes de baseball y con enfoque en la mascota del equipo. Para ello, se espera que:
+
+1. El equipo de SmartMedia desarrolle un template con todas las especificaciones necesarias para atender las solicitudes previamente descritas, donde únicamente actualice la información particular de cada visiones tradicional y moderna. Es decir, de manera esquemática se espera el diseño de un prompt, como el siguiente ejemplo: 
+
+“”””
+Instrucciones
+Contexto
+Tareas
+...
+...
+Otras consideraciones ...
+...
+Información particular a considerar: (<--- Actualizar desde aquí)
+1. Información 1 ...
+2. Información 1 ...
+3. Información 1 ...
+...
+“””
+
+Al respecto, el mismo template debe generar el programa de rediseño de la marca y corresponder con las características o información específicas de cada tipo de visión, tradicional y moderna.
+
+ChatGPT: ¡Entendido! A continuación, te presento un template que cumple con las instrucciones, incluyendo las especificaciones para desarrollar el programa de rediseño en formato CSV. Este template está pensado para que puedas actualizar información específica sobre cada audiencia (tradicional y moderna).
+
+Template para el Programa de Rediseño de Marca
+plaintext
+Copiar código
+Instrucciones:
+1. Este prompt generará un programa mensual para el rediseño de la marca de un equipo de béisbol.
+2. El programa considera las características de dos tipos de audiencia: tradicional y moderna.
+3. Cada entrada incluirá las acciones mensuales y los mensajes alineados a las preferencias y medios frecuentados por cada audiencia.
+
+Contexto:
+1. El equipo de béisbol tiene una mascota (Monty el Oso), que será central en todos los mensajes.
+2. Las audiencias tradicionales incluyen personas mayores de 40 años, que prefieren medios como periódicos, radio y televisión.
+3. Las audiencias modernas incluyen personas menores de 30 años, activas en redes sociales como TikTok, Instagram y YouTube.
+
+Tareas:
+1. Diseñar un programa mensual con acciones específicas para cada audiencia.
+2. Adaptar los mensajes según los medios preferidos por cada audiencia.
+3. Evitar temas sensibles, como comparaciones con otros deportes o la falta de campeonatos recientes.
+
+Otras consideraciones:
+1. Mantener mensajes positivos y centrados en la tradición o innovación, dependiendo de la audiencia.
+2. Todos los mensajes deben incluir a la mascota Monty el Oso de manera creativa.
+
+Información particular a considerar:
+1. Audiencia tradicional:
+   - Prefiere historias sobre la historia y legado del equipo.
+   - Se comunica mejor a través de medios impresos y radio.
+2. Audiencia moderna:
+   - Busca contenido interactivo y dinámico.
+   - Prefiere desafíos y tendencias en redes sociales.
+Salida esperada en formato CSV
+El archivo resultante tendrá el siguiente formato:
+
+Mes	Acción Tradicional	Medio Tradicional	Mensaje Tradicional	Acción Moderna	Medio Moderno	Mensaje Moderno
+Enero	Publicación de un artículo sobre la historia	Periódico	"Monty: un legado que inspira generaciones."	Lanzamiento de un reto de baile	TikTok	"¡Únete al #MontyChallenge!"
+Febrero	Entrevista radial con exjugadores del equipo	Radio	"Historias que nos unen como comunidad."	Historias interactivas con trivia	Instagram Stories	"¿Qué tanto sabes sobre Monty?"
+Marzo	Evento conmemorativo con memorabilia histórica	Evento en el estadio	"Celebrando el legado de los Osos de Montana."	Publicación de filtros personalizados	Instagram, TikTok	"¡Transforma tu selfie con Monty!"
+Acciones para crear el archivo CSV
+Copia el contenido de la tabla generada.
+Guarda el contenido en un archivo con formato .csv, nombrándolo como:
+programa_rediseño_tradicional.csv (para visión tradicional).
+programa_rediseño_moderno.csv (para visión moderna).
+Si necesitas asistencia generando el archivo o ajustando el contenido, házmelo saber. 😊

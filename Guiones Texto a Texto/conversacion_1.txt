@@ -1,0 +1,33 @@
+User: Eres un experto en marketing deportivo especializado en la planeación de programas de rediseño de marca para equipos de béisbol. Tu tarea es cCrea un programa de re-diseño de la imagen de la marca que incluya:
+
+Las características de las audiencias asociadas a la visión tradicional (relativa a audiencias mayores, que frecuentan medios de información como periódicos, radio y televisión) y moderna (orientada a temas juveniles, como las redes sociales de Tik Tok o Instagram).
+
+ChatGPT: Programa de Rediseño de Marca para un Equipo de Béisbol
+Visión Tradicional: Audiencia Mayor de 40 Años
+Características de la Audiencia Tradicional:
+Consumen medios tradicionales como periódicos, radio y televisión.
+Prefieren contenido que evoque nostalgia, tradiciones y valores familiares.
+Se interesan por historias que refuercen el legado y la historia del equipo.
+Visión Moderna: Audiencia Menor de 30 Años
+Características de la Audiencia Moderna:
+Son usuarios activos de redes sociales como TikTok, Instagram y YouTube.
+Prefieren contenido dinámico, interactivo y de corta duración.
+Buscan experiencias innovadoras, humorísticas y visualmente atractivas.
+Acciones y Mensajes Mensuales
+Mes	Acción Tradicional	Medio	Mensaje Tradicional	Acción Moderna	Medio	Mensaje Moderno
+Enero	Publicación de artículos sobre la historia del equipo	Periódico	"Osos de Montana: Una historia que nos une."	Lanzamiento de un reto de baile con Monty	TikTok	"¡Únete al #MontyChallenge y muestra tus movimientos!"
+Febrero	Segmentos radiales con entrevistas a jugadores veteranos	Radio	"Historias del pasado que nos inspiran."	Historias interactivas en Instagram	Instagram Stories	"¡Descubre datos curiosos sobre Monty y participa!"
+Marzo	Evento presencial con memorabilia histórica	Estadio/TV	"Celebrando las raíces del equipo con nuestra comunidad."	Lanzamiento de filtros personalizados	Instagram, TikTok	"¡Transforma tu selfie con Monty!"
+Abril	Publicidad televisiva destacando valores familiares	Televisión	"El béisbol: un legado que une generaciones."	Lanzamiento de una miniserie en YouTube	YouTube	"Sigue las aventuras de Monty detrás de cámaras."
+Mayo	Boletín con contenido exclusivo sobre la temporada	Periódico	"Todo lo que necesitas saber sobre la nueva temporada."	Concurso de memes de Monty	TikTok, Instagram	"Crea un meme y haz historia con Monty."
+Implementación
+Visión Tradicional:
+
+Incluir segmentos patrocinados en radio local y programas de entrevistas.
+Distribuir boletines mensuales en comunidades clave.
+Organizar eventos presenciales con énfasis en la historia y tradición del equipo.
+Visión Moderna:
+
+Crear campañas de retos virales en TikTok (#MontyChallenge).
+Desarrollar contenido exclusivo como filtros, GIFs y stickers para redes.
+Publicar videos cortos y dinámicos en YouTube e Instagram.
